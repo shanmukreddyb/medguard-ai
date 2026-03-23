@@ -99,17 +99,17 @@ Normal conditions
 ## 📷 Screenshots
 
 ### 📝 Input & Processing UI
-![UI](./Screenshot-Dashboard.png)
+![UI](./Screenshot-UI.pngs)
 
 ---
 
 ### 📊 Live Dashboard
-![Dashboard](./Screenshot-Firestore.png)
+![Dashboard](./Screenshot-Dashboard.png)
 
 ---
 
 ### ☁️ Firestore Database
-![Firestore](./Screenshot-UI.pngs)
+![Firestore](./Screenshot-Firestore.png)
 
 ---
 
