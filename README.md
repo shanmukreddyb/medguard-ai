@@ -99,7 +99,7 @@ Normal conditions
 ## 📷 Screenshots
 
 ### 📝 Input & Processing UI
-![UI](./Screenshot-UI.pngs)
+![UI](./Screenshot-UI.png)
 
 ---
 
